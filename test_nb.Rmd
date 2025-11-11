@@ -1,8 +1,28 @@
 ---
-title: "R Notebook"
+title: "github starting"
 output: html_notebook
 ---
 
+## initialize git
+
+Tools
+
+&nbsp;&nbsp;&nbsp;&nbsp; - Version Control
+
+
+
+## how to connect to github
+
+in terminal
+
+    git remote add origin https://github.com/yourusername/yourrepo.git
+
+    git branch -M main
+
+    git push -u origin main
+
+
+## little code
 
 ```{r}
 arr <- c(0,1,2,3,7,5,4)
